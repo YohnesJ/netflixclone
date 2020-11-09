@@ -46,7 +46,7 @@ export const Header = styled.div`
   display: flex;
   justify-content: space-between;
   cursor: pointer;
-  margin-bottom: 1px;
+  margin-bottom: 1.3px;
   font-size: 26px;
   font-weight: normal;
   background: #303030;
